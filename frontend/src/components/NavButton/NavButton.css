@@ -1,0 +1,41 @@
+.navbutton a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 19px 25px;
+    text-decoration: none;
+}
+
+.navbutton a::before,
+.navbutton.active a::before {
+    content: "";
+    position: absolute;
+    bottom: 16px;
+    right: 50%;
+    height: 0;
+    width: 0%;
+    border-bottom: 2px solid #f1f1f1;
+    transition: width 0.3s ease;
+}
+
+.navbutton a::after,
+.navbutton.active a::after {
+    content: "";
+    position: absolute;
+    bottom: 16px;
+    left: 50%;
+    height: 0;
+    width: 0%;
+    border-bottom: 2px solid #f1f1f1;
+    transition: width 0.3s ease;
+}
+
+.navbutton a:hover::after,
+.navbutton a:hover::before {
+    width: 28%;
+}
+
+.navbutton.active a::before,
+.navbutton.active a::after {
+    width: 28%;
+}

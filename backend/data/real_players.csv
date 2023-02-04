@@ -1,0 +1,597 @@
+PlayerID,PlayerName,College,Nationality,Height,Weight,Position,DraftYear,DraftRound,DraftPick
+1628960,Grayson Allen,Duke,USA,6-4,198,Guard,2018,1,21
+203507,Giannis Antetokounmpo,Filathlitikos,Greece,7-0,243,Forward,2013,1,15
+1629651,Nic Claxton,Georgia,USA,6-11,215,Center,2019,2,31
+201935,James Harden,Arizona State,USA,6-5,220,Guard,2009,1,3
+201572,Brook Lopez,Stanford,USA,7-1,282,Center,2008,1,10
+201142,Kevin Durant,Texas,USA,6-10,240,Forward,2007,1,2
+203925,Joe Harris,Virginia,USA,6-6,220,Guard-Forward,2014,2,33
+203114,Khris Middleton,Texas A&M,USA,6-7,222,Forward,2012,2,39
+201950,Jrue Holiday,UCLA,USA,6-5,205,Guard,2009,1,17
+1626192,Pat Connaughton,Notre Dame,USA,6-5,209,Guard,2015,2,41
+201933,Blake Griffin,Oklahoma,USA,6-9,250,Forward,2009,1,1
+200746,LaMarcus Aldridge,Texas-Austin,USA,6-11,250,Center-Forward,2006,1,2
+1628975,Jevon Carter,West Virginia,USA,6-1,200,Guard,2018,2,32
+201988,Patty Mills,St. Mary's,Australia,6-0,180,Guard,2009,2,55
+203648,Thanasis Antetokounmpo,Panathinaikos,Greece,6-7,219,Forward,2014,2,51
+1629670,Jordan Nwora,Louisville,USA,6-9,225,Forward,2020,2,45
+201588,George Hill,Indiana-Purdue Indianapolis,USA,6-4,188,Guard,2008,1,26
+1630572,Sandro Mamukelashvili,Seton Hall,Georgia,6-10,240,Forward-Center,2021,2,54
+1629620,Justin Robinson,Virginia Tech,USA,6-1,195,Guard,Undrafted,Undrafted,Undrafted
+1630560,Cam Thomas,Louisiana State,Japan,6-3,210,Guard,2021,1,27
+201949,James Johnson,Wake Forest,USA,6-7,240,Forward,2009,1,16
+1630686,Georgios Kalaitzakis,                                   ,Greece,6-7,192,Forward,2021,2,60
+201599,DeAndre Jordan,Texas A&M,USA,6-11,265,Center,2008,2,35
+1626172,Kevon Looney,UCLA,USA,6-9,222,Forward,2015,1,30
+1629673,Jordan Poole,Michigan,USA,6-4,194,Guard,2019,1,28
+203076,Anthony Davis,Kentucky,USA,6-10,253,Forward-Center,2012,1,1
+201566,Russell Westbrook,UCLA,USA,6-3,200,Guard,2008,1,4
+201939,Stephen Curry,Davidson,USA,6-2,185,Guard,2009,1,7
+203110,Draymond Green,Michigan State,USA,6-6,230,Forward,2012,2,35
+203145,Kent Bazemore,Old Dominion,USA,6-4,195,Guard-Forward,Undrafted,Undrafted,Undrafted
+2544,LeBron James,St. Vincent-St. Mary HS (OH),USA,6-9,250,Forward,2003,1,1
+203952,Andrew Wiggins,Kansas,Canada,6-7,197,Forward,2014,1,1
+1627814,Damion Lee,Drexel,USA,6-5,210,Guard-Forward,Undrafted,Undrafted,Undrafted
+2738,Andre Iguodala,Arizona,USA,6-6,215,Guard-Forward,2004,1,9
+2546,Carmelo Anthony,Syracuse,USA,6-7,238,Forward,2003,1,3
+202357,Nemanja Bjelica,Fenerbahce,Serbia,6-9,234,Forward,2010,2,35
+203490,Otto Porter Jr.,Georgetown,USA,6-8,198,Forward,2013,1,3
+1630541,Moses Moody,Arkansas,USA,6-5,211,Guard,2021,1,14
+200765,Rajon Rondo,Kentucky,USA,6-1,180,Guard,2006,1,21
+2730,Dwight Howard,SW Atlanta Christian Academy (GA),USA,6-10,265,Center-Forward,2004,1,1
+1629308,Juan Toscano-Anderson,Marquette,USA,6-6,209,Forward,Undrafted,Undrafted,Undrafted
+1628370,Malik Monk,Kentucky,USA,6-3,200,Guard,2017,1,11
+1627780,Gary Payton II,Oregon State,USA,6-2,195,Guard,Undrafted,Undrafted,Undrafted
+202340,Avery Bradley,Texas-Austin,USA,6-3,180,Guard,2010,1,19
+1627734,Domantas Sabonis,Gonzaga,Lithuania,7-1,240,Forward-Center,2016,1,11
+202330,Gordon Hayward,Butler,USA,6-7,225,Forward,2010,1,9
+1627763,Malcolm Brogdon,Virginia,USA,6-4,229,Guard,2016,2,36
+1630163,LaMelo Ball,Illawarra,USA,6-7,180,Guard,2020,1,3
+203486,Mason Plumlee,Duke,USA,7-0,254,Forward-Center,2013,1,22
+1630537,Chris Duarte,Oregon,Dominican Republic,6-5,190,Guard,2021,1,13
+1626167,Myles Turner,Texas,USA,6-11,250,Center-Forward,2015,1,11
+1626162,Kelly Oubre Jr.,Kansas,USA,6-6,203,Forward-Guard,2015,1,15
+1628970,Miles Bridges,Michigan State,USA,6-7,225,Forward,2018,1,12
+203087,Jeremy Lamb,Connecticut,USA,6-5,180,Guard-Forward,2012,1,12
+202397,Ish Smith,Wake Forest,USA,6-0,175,Guard,Undrafted,Undrafted,Undrafted
+1629667,Jalen McDaniels,San Diego State,USA,6-9,205,Forward-Center,2019,2,52
+1628998,Cody Martin,Nevada,USA,6-6,205,Forward,2019,2,36
+1629023,P.J. Washington,Kentucky,USA,6-7,230,Forward,2019,1,12
+204456,T.J. McConnell,Arizona,USA,6-1,190,Guard,Undrafted,Undrafted,Undrafted
+1628470,Torrey Craig,South Carolina Upstate,USA,6-7,221,Forward,Undrafted,Undrafted,Undrafted
+203200,Justin Holiday,Washington,USA,6-6,180,Forward-Guard,Undrafted,Undrafted,Undrafted
+1628402,Frank Jackson,Duke,USA,6-3,205,Guard,2017,2,31
+1628366,Lonzo Ball,UCLA,USA,6-6,190,Guard,2017,1,2
+203924,Jerami Grant,Syracuse,USA,6-8,210,Forward,2014,2,39
+203897,Zach LaVine,UCLA,USA,6-5,200,Guard-Forward,2014,1,13
+1630180,Saddiq Bey,Villanova,USA,6-7,215,Forward,2020,1,19
+1630191,Isaiah Stewart,Washington,USA,6-8,250,Forward-Center,2020,1,16
+1630172,Patrick Williams,Florida State,USA,6-7,215,Forward,2020,1,4
+1630165,Killian Hayes,Ratiopharm Ulm,France,6-5,195,Guard,2020,1,7
+201942,DeMar DeRozan,Southern California,USA,6-6,220,Guard-Forward,2009,1,9
+202696,Nikola Vucevic,Southern California,Montenegro,6-10,260,Center,2011,1,16
+203482,Kelly Olynyk,Gonzaga,Canada,6-11,240,Forward-Center,2013,1,13
+1627936,Alex Caruso,Texas A&M,USA,6-5,186,Guard,Undrafted,Undrafted,Undrafted
+1626168,Trey Lyles,Kentucky,Canada,6-9,234,Forward,2015,1,12
+202709,Cory Joseph,Texas,Canada,6-3,200,Guard,2011,1,29
+1628367,Josh Jackson,Kansas,USA,6-8,207,Guard-Forward,2017,1,4
+1628993,Alize Johnson,Missouri State,USA,6-8,212,Forward,2018,2,50
+1628977,Hamidou Diallo,Kentucky,USA,6-5,202,Guard,2018,2,45
+1630245,Ayo Dosunmu,Illinois,USA,6-5,200,Guard,2021,2,38
+1629750,Javonte Green,Radford,USA,6-5,205,Guard-Forward,Undrafted,Undrafted,Undrafted
+203944,Julius Randle,Kentucky,USA,6-8,250,Forward-Center,2014,1,7
+202689,Kemba Walker,Connecticut,USA,6-0,184,Guard,2011,1,9
+1629011,Mitchell Robinson,Western Kentucky,USA,7-0,240,Center-Forward,2018,2,36
+1628369,Jayson Tatum,Duke,USA,6-8,210,Forward-Guard,2017,1,3
+203935,Marcus Smart,Oklahoma State,USA,6-4,220,Guard,2014,1,6
+203095,Evan Fournier,Poitiers Basket 86,France,6-6,205,Guard-Forward,2012,1,20
+1627759,Jaylen Brown,California,USA,6-6,223,Guard-Forward,2016,1,3
+1629057,Robert Williams III,Texas A&M,USA,6-9,237,Center-Forward,2018,1,27
+1629684,Grant Williams,Tennessee,USA,6-6,236,Forward,2019,1,22
+1629628,RJ Barrett,Duke,Canada,6-6,214,Forward-Guard,2019,1,3
+203471,Dennis Schroder,Braunschweig,Germany,6-1,172,Guard,2013,1,17
+1629641,Romeo Langford,Indiana,USA,6-5,216,Guard-Forward,2019,1,14
+202692,Alec Burks,Colorado,USA,6-6,214,Guard,2011,1,12
+201565,Derrick Rose,Memphis,USA,6-3,200,Guard,2008,1,1
+1630193,Immanuel Quickley,Kentucky,USA,6-2,190,Guard,2020,1,25
+1630202,Payton Pritchard,Oregon,USA,6-1,195,Guard,2020,1,26
+1630174,Aaron Nesmith,Vanderbilt,USA,6-5,215,Guard-Forward,2020,1,14
+1630167,Obi Toppin,Dayton,USA,6-9,220,Forward,2020,1,8
+1627832,Fred VanVleet,Wichita State,USA,6-0,197,Guard,Undrafted,Undrafted,Undrafted
+203484,Kentavious Caldwell-Pope,Georgia,USA,6-5,204,Guard,2013,1,8
+201609,Goran Dragic,Union Olimpija,Slovenia,6-4,190,Guard,2008,2,45
+1628398,Kyle Kuzma,Utah,USA,6-9,221,Forward,2017,1,27
+1630173,Precious Achiuwa,Memphis,Nigeria,6-8,225,Forward,2020,1,20
+203915,Spencer Dinwiddie,Colorado,USA,6-5,215,Guard,2014,2,38
+1628384,O.G. Anunoby,Indiana,United Kingdom,6-7,232,Forward,2017,1,23
+203078,Bradley Beal,Florida,USA,6-4,207,Guard,2012,1,3
+1629655,Daniel Gafford,Arkansas,USA,6-10,234,Forward-Center,2019,2,38
+1630567,Scottie Barnes,Florida State,USA,6-8,225,Forward,2021,1,4
+1630166,Deni Avdija,Maccabi Tel Aviv,Israel,6-9,210,Forward,2020,1,9
+1629018,Gary Trent Jr.,Duke,USA,6-5,209,Guard-Forward,2018,2,37
+203526,Raul Neto,Murcia,Brazil,6-2,180,Guard,2013,2,47
+1626149,Montrezl Harrell,Louisville,USA,6-7,240,Forward-Center,2015,2,32
+1628988,Aaron Holiday,UCLA,USA,6-0,185,Guard,2018,1,23
+1628449,Chris Boucher,Oregon,Saint Lucia,6-9,200,Forward-Center,Undrafted,Undrafted,Undrafted
+202722,Davis Bertans,Baskonia,Latvia,6-10,225,Forward,2011,2,42
+1629004,Svi Mykhailiuk,Kansas,Ukraine,6-7,205,Guard-Forward,2018,2,47
+203920,Khem Birch,UNLV,Canada,6-8,233,Center,Undrafted,Undrafted,Undrafted
+1630625,Dalano Banton,Nebraska,Canada,6-7,204,Forward,2021,2,46
+1630596,Evan Mobley,Southern California,USA,6-11,215,Center,2021,1,3
+1629630,Ja Morant,Murray State,USA,6-2,174,Guard,2019,1,2
+1628386,Jarrett Allen,Texas,USA,6-9,243,Center,2017,1,22
+1630217,Desmond Bane,TCU,USA,6-5,215,Guard,2020,1,30
+1629001,De'Anthony Melton,Southern California,USA,6-2,200,Guard,2018,2,46
+1628374,Lauri Markkanen,Arizona,Finland,7-0,240,Forward-Center,2017,1,7
+1629012,Collin Sexton,Alabama,USA,6-2,190,Guard,2018,1,8
+1629636,Darius Garland,Vanderbilt,USA,6-1,192,Guard,2019,1,5
+203500,Steven Adams,Pittsburgh,New Zealand,6-11,265,Center,2013,1,12
+1630171,Isaac Okoro,Auburn,USA,6-5,225,Forward-Guard,2020,1,5
+201567,Kevin Love,UCLA,USA,6-8,251,Forward-Center,2008,1,5
+201937,Ricky Rubio,FC Barcelona,Spain,6-2,190,Guard,2009,1,5
+1629723,John Konchar,Indiana-Purdue Fort Wayne,USA,6-5,210,Guard,Undrafted,Undrafted,Undrafted
+1626224,Cedi Osman,Anadolu Efes,Turkey,6-7,230,Forward,2015,2,31
+203937,Kyle Anderson,UCLA,USA,6-9,230,Forward-Guard,2014,1,30
+1630533,Ziaire Williams,Stanford,USA,6-9,185,Forward,2021,1,10
+1628991,Jaren Jackson Jr.,Michigan State,USA,6-10,242,Forward-Center,2018,1,4
+1626145,Tyus Jones,Duke,USA,6-2,196,Guard,2015,1,24
+1629634,Brandon Clarke,Gonzaga,Canada,6-8,215,Forward,2019,1,21
+1626156,D'Angelo Russell,Ohio State,USA,6-4,193,Guard,2015,1,2
+1626174,Christian Wood,UNLV,USA,6-9,214,Forward,Undrafted,Undrafted,Undrafted
+1630162,Anthony Edwards,Georgia,USA,6-4,225,Guard,2020,1,1
+1629006,Josh Okogie,Georgia Tech,Nigeria,6-4,213,Guard,2018,1,20
+1628464,Daniel Theis,Brose Bamberg,Germany,6-8,245,Forward-Center,Undrafted,Undrafted,Undrafted
+1626157,Karl-Anthony Towns,Kentucky,USA,7-0,248,Center-Forward,2015,1,1
+1630224,Jalen Green,NBA G League Ignite,USA,6-4,186,Guard,2021,1,2
+1630256,Jae'Sean Tate,Ohio State,USA,6-5,230,Forward,Undrafted,Undrafted,Undrafted
+201569,Eric Gordon,Indiana,USA,6-3,215,Guard,2008,1,7
+1629645,Kevin Porter Jr.,Southern California,USA,6-4,203,Guard-Forward,2019,1,30
+1629162,Jordan McLaughlin,Southern California,USA,6-0,185,Guard,Undrafted,Undrafted,Undrafted
+1630578,Alperen Sengun,Besiktas,Turkey,6-11,243,Center,2021,1,16
+1627736,Malik Beasley,Florida State,USA,6-4,187,Guard,2016,1,19
+1627752,Taurean Prince,Baylor,USA,6-6,218,Forward,2016,1,12
+201571,D.J. Augustin,Texas-Austin,USA,5-11,183,Guard,2008,1,9
+1629675,Naz Reid,Louisiana State,USA,6-9,264,Center-Forward,Undrafted,Undrafted,Undrafted
+1630183,Jaden McDaniels,Washington,USA,6-9,185,Forward,2020,1,28
+1628021,David Nwaba,Cal Poly-Obispo,USA,6-5,219,Guard-Forward,Undrafted,Undrafted,Undrafted
+1630231,Kenyon Martin Jr.,IMG Academy (FL),USA,6-7,215,Forward,2020,2,52
+1629717,Armoni Brooks,Houston,USA,6-3,195,Guard,Undrafted,Undrafted,Undrafted
+1630586,Usman Garuba,Real Madrid,Spain,6-8,229,Forward,2021,1,23
+1630528,Josh Christopher,Arizona State,USA,6-4,215,Guard,2021,1,24
+1630195,Leandro Bolmaro,FC Barcelona,Argentina,6-6,200,Forward,2020,1,23
+1629669,Jaylen Nowell,Washington,USA,6-4,201,Guard,2019,2,43
+1627774,Jake Layman,Maryland,USA,6-8,209,Forward,2016,2,47
+1630593,McKinley Wright IV,Colorado,USA,5-11,192,Guard,Undrafted,Undrafted,Undrafted
+203954,Joel Embiid,Kansas,Cameroon,7-0,280,Center-Forward,2014,1,3
+1629638,Nickeil Alexander-Walker,Virginia Tech,Canada,6-5,205,Guard,2019,1,17
+202699,Tobias Harris,Tennessee,USA,6-7,226,Forward,2011,1,19
+202685,Jonas Valanciunas,Lietuvos rytas Vilnius,Lithuania,6-11,265,Center,2011,1,5
+1627742,Brandon Ingram,Duke,USA,6-8,190,Forward,2016,1,2
+1630178,Tyrese Maxey,Kentucky,USA,6-2,200,Guard,2020,1,21
+203552,Seth Curry,Duke,USA,6-1,185,Guard,Undrafted,Undrafted,Undrafted
+1628404,Josh Hart,Villanova,USA,6-4,215,Guard,2017,1,30
+1628984,Devonte' Graham,Kansas,USA,6-1,195,Guard,2018,2,34
+1630198,Isaiah Joe,Arkansas,USA,6-3,165,Guard,2020,2,49
+1627788,Furkan Korkmaz,Anadolu Efes,Turkey,6-7,202,Guard-Forward,2016,1,26
+1627777,Georges Niang,Iowa State,USA,6-7,230,Forward,2016,2,50
+202066,Garrett Temple,Louisiana State,USA,6-6,195,Guard-Forward,Undrafted,Undrafted,Undrafted
+1629637,Jaxson Hayes,Texas,USA,7-0,220,Center-Forward,2019,1,8
+203107,Tomas Satoransky,FC Barcelona,Czech Republic,6-7,210,Guard,2012,2,32
+1629680,Matisse Thybulle,Washington,USA,6-5,201,Guard-Forward,2019,1,20
+1630530,Trey Murphy III,Virginia,USA,6-8,206,Forward,2021,1,17
+1630184,Kira Lewis Jr.,Alabama,USA,6-1,170,Guard,2020,1,13
+203083,Andre Drummond,Connecticut,USA,6-11,279,Center,2012,1,9
+201980,Danny Green,North Carolina,USA,6-6,215,Guard,2009,2,46
+1630230,Naji Marshall,Xavier,USA,6-7,220,Forward,Undrafted,Undrafted,Undrafted
+1630194,Paul Reed,DePaul,USA,6-9,210,Forward,2020,2,58
+1629646,Charles Bassey,Western Kentucky,Nigeria,6-9,230,Center-Forward,2021,2,53
+1630565,Aaron Henry,Michigan State,USA,6-5,210,Forward,Undrafted,Undrafted,Undrafted
+1628964,Mo Bamba,Texas,USA,7-0,231,Center,2018,1,6
+203926,Doug McDermott,Creighton,USA,6-6,225,Forward,2014,1,11
+1627749,Dejounte Murray,Washington,USA,6-5,180,Guard,2016,1,29
+1630175,Cole Anthony,North Carolina,USA,6-3,185,Guard,2020,1,15
+1629640,Keldon Johnson,Kentucky,USA,6-5,220,Forward-Guard,2019,1,29
+1630532,Franz Wagner,Michigan,Germany,6-10,220,Forward,2021,1,8
+1627751,Jakob Poeltl,Utah,Austria,7-1,245,Center,2016,1,9
+1628401,Derrick White,Colorado,USA,6-4,190,Guard,2017,1,29
+1630591,Jalen Suggs,Gonzaga,USA,6-5,205,Guard,2021,1,5
+1628976,Wendell Carter Jr.,Duke,USA,6-10,270,Center-Forward,2018,1,7
+1629649,Ignas Brazdeikis,Michigan,Canada,6-6,221,Forward,2019,2,47
+203082,Terrence Ross,Washington,USA,6-7,206,Guard-Forward,2012,1,8
+1630181,R.J. Hampton,New Zealand Breakers,USA,6-4,175,Guard,2020,1,24
+1630170,Devin Vassell,Florida State,USA,6-5,200,Guard-Forward,2020,1,11
+1629021,Moritz Wagner,Michigan,Germany,6-11,245,Forward-Center,2018,1,25
+1629022,Lonnie Walker IV,Miami,USA,6-4,204,Guard-Forward,2018,1,18
+1629234,Drew Eubanks,Oregon State,USA,6-10,245,Forward-Center,Undrafted,Undrafted,Undrafted
+1627854,Bryn Forbes,Michigan State,USA,6-2,205,Guard,Undrafted,Undrafted,Undrafted
+201577,Robin Lopez,Stanford,USA,7-0,281,Center,2008,1,15
+1630200,Tre Jones,Duke,USA,6-1,185,Guard,2020,2,41
+1628966,Keita Bates-Diop,Ohio State,USA,6-8,229,Forward,2018,2,48
+1630563,Joshua Primo,Alabama,Canada,6-6,189,Guard,2021,1,12
+1629111,Jock Landale,St. Mary's,Australia,6-11,255,Center,Undrafted,Undrafted,Undrafted
+1628983,Shai Gilgeous-Alexander,Kentucky,Canada,6-6,195,Guard,2018,1,11
+201144,Mike Conley,Ohio State,USA,6-1,175,Guard,2007,1,4
+1630581,Josh Giddey,NBA Global Academy,Australia,6-8,216,Guard,2021,1,6
+203497,Rudy Gobert,Cholet,France,7-1,258,Center,2013,1,27
+1629647,Darius Bazley,Princeton HS (OH),USA,6-9,216,Forward,2019,1,23
+202711,Bojan Bogdanovic,Fenerbahce,Croatia,6-7,226,Forward,2011,2,31
+1628378,Donovan Mitchell,Louisville,USA,6-1,215,Guard,2017,1,13
+1629652,Luguentz Dort,Arizona State,Canada,6-4,220,Guard,Undrafted,Undrafted,Undrafted
+1626220,Royce O'Neale,Baylor,USA,6-6,226,Forward,Undrafted,Undrafted,Undrafted
+202324,Derrick Favors,Georgia Tech,USA,6-9,265,Forward,2010,1,3
+204060,Joe Ingles,Maccabi Tel Aviv,Australia,6-9,220,Forward-Guard,Undrafted,Undrafted,Undrafted
+202355,Hassan Whiteside,Marshall,USA,7-0,265,Center,2010,2,33
+203903,Jordan Clarkson,Missouri,USA,6-5,194,Guard,2014,2,46
+1629676,Isaiah Roby,Nebraska,USA,6-8,230,Forward,2019,2,45
+1630197,Aleksej Pokusevski,Olympiacos,Serbia,7-0,210,Forward,2020,1,17
+1629672,Eric Paschall,Villanova,USA,6-6,255,Forward,2019,2,41
+1630544,Tre Mann,Florida,USA,6-3,178,Guard,2021,1,18
+1629026,Kenrich Williams,TCU,USA,6-6,210,Guard-Forward,Undrafted,Undrafted,Undrafted
+1630177,Theo Maledon,Asvel,France,6-5,175,Guard,2020,2,34
+1630526,Jeremiah Robinson-Earl,Villanova,USA,6-8,240,Forward,2021,2,32
+1630215,Jared Butler,Baylor,USA,6-3,193,Guard,2021,2,40
+203999,Nikola Jokic,Mega Basket,Serbia,6-11,284,Center,2014,2,41
+1629028,Deandre Ayton,Arizona,Bahamas,7-0,250,Center,2018,1,1
+1626164,Devin Booker,Kentucky,USA,6-5,206,Guard,2015,1,13
+1628969,Mikal Bridges,Villanova,USA,6-6,209,Forward,2018,1,10
+203115,Will Barton,Memphis,USA,6-5,181,Guard,2012,2,40
+101108,Chris Paul,Wake Forest,USA,6-0,175,Guard,2005,1,4
+1629008,Michael Porter Jr.,Missouri,USA,6-10,218,Forward,2018,1,14
+1628420,Monte Morris,Iowa State,USA,6-2,183,Guard,2017,2,51
+203932,Aaron Gordon,Arizona,USA,6-8,235,Forward,2014,1,4
+203109,Jae Crowder,Marquette,USA,6-6,235,Forward,2012,2,34
+1626166,Cameron Payne,Murray State,USA,6-1,183,Guard,2015,1,14
+1630267,Facundo Campazzo,Murcia,Argentina,5-10,195,Guard,Undrafted,Undrafted,Undrafted
+1627846,Abdel Nader,Iowa State,Egypt,6-5,225,Forward,2016,2,58
+203210,JaMychal Green,Alabama,USA,6-9,227,Forward-Center,Undrafted,Undrafted,Undrafted
+1629013,Landry Shamet,Wichita State,USA,6-4,190,Guard,2018,1,26
+1629661,Cameron Johnson,North Carolina,USA,6-8,210,Forward,2019,1,11
+201580,JaVale McGee,Nevada,USA,7-0,270,Center-Forward,2008,1,18
+203085,Austin Rivers,Duke,USA,6-4,200,Guard,2012,1,10
+201145,Jeff Green,Georgetown,USA,6-8,235,Forward,2007,1,5
+1628408,P.J. Dozier,South Carolina,USA,6-6,205,Guard-Forward,Undrafted,Undrafted,Undrafted
+1626181,Norman Powell,UCLA,USA,6-4,215,Guard,2015,2,46
+203084,Harrison Barnes,North Carolina,USA,6-8,225,Forward,2012,1,7
+203496,Robert Covington,Tennessee State,USA,6-7,209,Forward,Undrafted,Undrafted,Undrafted
+1628368,De'Aaron Fox,Kentucky,USA,6-3,185,Guard,2017,1,5
+203468,CJ McCollum,Lehigh,USA,6-3,190,Guard,2013,1,10
+203090,Maurice Harkless,"St. John's, N.Y.",USA,6-7,220,Forward-Guard,2012,1,15
+1630169,Tyrese Haliburton,Iowa State,USA,6-5,185,Guard,2020,1,12
+1626158,Richaun Holmes,Bowling Green,USA,6-8,235,Forward,2015,2,37
+203081,Damian Lillard,Weber State,USA,6-2,195,Guard,2012,1,6
+1627741,Buddy Hield,Oklahoma,Bahamas,6-4,220,Guard,2016,1,6
+1629642,Nassir Little,North Carolina,USA,6-5,220,Forward-Guard,2019,1,25
+202684,Tristan Thompson,University of Texas at Austin,Canada,6-9,254,Center-Forward,2011,1,4
+1626204,Larry Nance Jr.,Wyoming,USA,6-8,245,Forward-Center,2015,1,27
+203469,Cody Zeller,Indiana,USA,6-11,240,Forward-Center,2013,1,4
+1630558,Davion Mitchell,Baylor,USA,6-0,202,Guard,2021,1,9
+1629014,Anfernee Simons,Edgewater HS (FL),USA,6-3,181,Guard,2018,1,24
+1629056,Terence Davis,Mississippi,USA,6-4,201,Guard,Undrafted,Undrafted,Undrafted
+203994,Jusuf Nurkic,Cedevita,Bosnia and Herzegovina,7-0,290,Center,2014,1,16
+203501,Tim Hardaway Jr.,Michigan,USA,6-5,205,Guard-Forward,2013,1,24
+1628381,John Collins,Wake Forest,USA,6-9,226,Forward-Center,2017,1,19
+203939,Dwight Powell,Stanford,Canada,6-10,240,Forward-Center,2014,2,45
+1627827,Dorian Finney-Smith,Florida,USA,6-7,220,Forward,Undrafted,Undrafted,Undrafted
+1629631,De'Andre Hunter,Virginia,USA,6-8,221,Forward-Guard,2019,1,4
+204001,Kristaps Porzingis,Cajasol Sevilla,Latvia,7-3,240,Forward-Center,2015,1,4
+1629029,Luka Doncic,Real Madrid,Slovenia,6-7,230,Forward-Guard,2018,1,3
+1629027,Trae Young,Oklahoma,USA,6-1,164,Guard,2018,1,5
+203992,Bogdan Bogdanovic,Fenerbahce,Serbia,6-5,225,Guard,2014,1,27
+203991,Clint Capela,Elan Chalon,Switzerland,6-10,256,Center,2014,1,25
+1629629,Cam Reddish,Duke,USA,6-7,217,Forward-Guard,2019,1,10
+1628973,Jalen Brunson,Villanova,USA,6-2,190,Guard,2018,2,33
+1626161,Willie Cauley-Stein,Kentucky,USA,7-0,240,Center,2015,1,6
+1628989,Kevin Huerter,Maryland,USA,6-7,198,Guard-Forward,2018,1,19
+203493,Reggie Bullock,North Carolina,USA,6-6,205,Guard-Forward,2013,1,25
+1628425,Sterling Brown,Southern Methodist,USA,6-5,219,Guard-Forward,2017,2,46
+203476,Gorgui Dieng,Louisville,Senegal,6-10,248,Center,2013,1,21
+1626153,Delon Wright,Utah,USA,6-5,185,Guard,2015,1,20
+1628467,Maxi Kleber,Bayern Munich,Germany,6-10,240,Forward,Undrafted,Undrafted,Undrafted
+203524,Solomon Hill,Arizona,USA,6-6,226,Forward,2013,1,23
+203504,Trey Burke,Michigan,USA,6-0,185,Guard,2013,1,9
+1630552,Jalen Johnson,Duke,USA,6-8,219,Forward,2021,1,20
+1628373,Frank Ntilikina,Strasbourg IG,France,6-4,200,Guard,2017,1,8
+1627789,Timothe Luwawu-Cabarrot,                                   ,France,6-7,215,Guard-Forward,2016,1,24
+1630182,Josh Green,Arizona,Australia,6-7,200,Guard,2020,1,18
+1630536,Sharife Cooper,Auburn,USA,6-1,176,Guard,2021,2,48
+1630219,Skylar Mays,Louisiana State,USA,6-4,205,Guard,2020,2,50
+1628389,Bam Adebayo,Kentucky,USA,6-9,255,Center-Forward,2017,1,14
+1629130,Duncan Robinson,Michigan,USA,6-7,215,Forward,Undrafted,Undrafted,Undrafted
+200768,Kyle Lowry,Villanova,USA,6-0,196,Guard,2006,1,24
+202710,Jimmy Butler,Marquette,USA,6-7,230,Forward,2011,1,30
+200782,P.J. Tucker,Texas,USA,6-5,245,Forward,2006,2,35
+1629639,Tyler Herro,Kentucky,USA,6-5,195,Guard,2019,1,13
+203473,Dewayne Dedmon,Southern California,USA,6-10,245,Center,Undrafted,Undrafted,Undrafted
+1629622,Max Strus,DePaul,USA,6-5,215,Guard-Forward,Undrafted,Undrafted,Undrafted
+202693,Markieff Morris,Kansas,USA,6-9,245,Forward,2011,1,13
+1629216,Gabe Vincent,California-Santa Barbara,USA,6-2,200,Guard,Undrafted,Undrafted,Undrafted
+1629644,KZ Okpala,Stanford,USA,6-8,215,Forward-Guard,2019,2,32
+1630209,Omer Yurtseven,Georgetown,Turkey,6-11,275,Center,Undrafted,Undrafted,Undrafted
+1628997,Caleb Martin,Nevada,USA,6-5,205,Forward,Undrafted,Undrafted,Undrafted
+1630585,Marcus Garrett,Kansas,USA,6-5,205,Guard,Undrafted,Undrafted,Undrafted
+1627826,Ivica Zubac,Mega Basket,Croatia,7-0,240,Center,2016,2,32
+202339,Eric Bledsoe,Kentucky,USA,6-1,214,Guard,2010,1,18
+202331,Paul George,Fresno State,USA,6-8,220,Forward,2010,1,10
+202704,Reggie Jackson,Boston College,USA,6-2,208,Guard,2011,1,24
+1628379,Luke Kennard,Duke,USA,6-5,206,Guard,2017,1,12
+1629611,Terance Mann,Florida State,USA,6-5,215,Guard-Forward,2019,2,48
+202694,Marcus Morris Sr.,Kansas,USA,6-8,218,Forward,2011,1,14
+1626159,Justise Winslow,Duke,USA,6-6,222,Forward-Guard,2015,1,10
+1629599,Amir Coffey,Minnesota,USA,6-7,210,Guard-Forward,Undrafted,Undrafted,Undrafted
+1626179,Terry Rozier,Louisville,USA,6-1,190,Guard,2015,1,16
+1629731,Dean Wade,Kansas State,USA,6-9,228,Forward-Center,Undrafted,Undrafted,Undrafted
+1629605,Tacko Fall,UCF,Senegal,7-6,311,Center,Undrafted,Undrafted,Undrafted
+1630612,RJ Nembhard Jr.,Texas Christian,USA,6-4,200,Guard,Undrafted,Undrafted,Undrafted
+1630205,Lamar Stevens,Penn State,USA,6-6,230,Forward,Undrafted,Undrafted,Undrafted
+1630579,Jericho Sims,Texas,USA,6-10,250,Center,2021,2,58
+1629656,Quentin Grimes,Houston,USA,6-5,210,Guard,2021,1,25
+1630540,Miles McBride,West Virginia,USA,6-2,195,Guard,2021,2,36
+1630557,Corey Kispert,Gonzaga,USA,6-6,224,Forward,2021,1,15
+202954,Brad Wanamaker,Pittsburgh,USA,6-3,210,Guard,Undrafted,Undrafted,Undrafted
+201143,Al Horford,Florida,Dominican Republic,6-9,240,Center-Forward,2007,1,3
+1626196,Josh Richardson,Tennessee,USA,6-6,200,Guard,2015,2,40
+1627823,Juancho Hernangomez,Estudiantes,Spain,6-9,214,Forward,2016,1,15
+202683,Enes Freedom,                                   ,Turkey,6-10,250,Center,2011,1,3
+1629067,Isaac Bonga,Skyliners Frankfurt,Germany,6-8,180,Guard,2018,2,39
+1630201,Malachi Flynn,San Diego State,USA,6-1,175,Guard,2020,1,29
+200794,Paul Millsap,Louisiana Tech,USA,6-7,257,Forward,2006,2,47
+1630529,Herbert Jones,Alabama,USA,6-7,206,Forward,2021,2,35
+1628972,Troy Brown Jr.,Oregon,USA,6-7,215,Guard-Forward,2018,1,15
+1628396,Tony Bradley,North Carolina,USA,6-11,248,Center-Forward,2017,1,28
+1629744,Matt Thomas,Iowa State,USA,6-3,190,Guard,Undrafted,Undrafted,Undrafted
+1630466,Gabriel Deck,                                   ,Argentina,6-6,231,Forward,Undrafted,Undrafted,Undrafted
+1629660,Ty Jerome,Virginia,USA,6-5,195,Guard-Forward,2019,1,24
+203488,Mike Muscala,Bucknell,USA,6-11,240,Forward-Center,2013,2,44
+1627863,Danuel House Jr.,Texas A&M,USA,6-6,220,Forward-Guard,Undrafted,Undrafted,Undrafted
+1630249,Vit Krejci,Zaragoza,Czech Republic,6-8,195,Guard,2020,2,37
+201152,Thaddeus Young,Georgia Tech,USA,6-8,235,Forward,2007,1,12
+1630559,Austin Reaves,Oklahoma,USA,6-5,197,Guard,Undrafted,Undrafted,Undrafted
+1628963,Marvin Bagley III,Duke,USA,6-10,235,Forward,2018,1,2
+203458,Alex Len,Maryland,Ukraine,7-2,250,Center,2013,1,5
+1630235,Trent Forrest,Florida State,USA,6-4,210,Guard,Undrafted,Undrafted,Undrafted
+1629052,Oshae Brissett,Syracuse,Canada,6-7,210,Forward-Guard,Undrafted,Undrafted,Undrafted
+1630240,Saben Lee,Vanderbilt,USA,6-2,183,Guard,2020,2,38
+1630568,Luka Garza,Iowa,USA,6-10,243,Center,2021,2,52
+203585,Rodney McGruder,Kansas State,USA,6-4,205,Guard,Undrafted,Undrafted,Undrafted
+201976,Patrick Beverley,Arkansas,USA,6-2,180,Guard,2009,2,42
+1629020,Jarred Vanderbilt,Kentucky,USA,6-8,214,Forward,2018,2,41
+203901,Elfrid Payton,Louisana-Lafayette,USA,6-3,195,Guard,2014,1,10
+1628372,Dennis Smith Jr.,North Carolina State,USA,6-2,205,Guard,2017,1,9
+1630188,Jalen Smith,Maryland,USA,6-9,215,Forward-Center,2020,1,10
+1626163,Frank Kaminsky,Wisconsin,USA,7-0,240,Forward-Center,2015,1,9
+1629604,CJ Elleby,Washington State,USA,6-6,200,Forward-Guard,2020,2,46
+203463,Ben McLemore,Kansas,USA,6-3,195,Guard,2013,1,7
+1630535,Greg Brown III,Texas,USA,6-7,206,Forward,2021,2,43
+1628990,Chandler Hutchison,Boise State,USA,6-6,210,Forward-Guard,2018,1,22
+1628392,Isaiah Hartenstein,Zalgiris,Germany,7-0,250,Center-Forward,2017,2,43
+201587,Nicolas Batum,Le Mans,France,6-8,230,Guard-Forward,2008,1,25
+1628971,Bruce Brown,Miami,USA,6-4,202,Guard-Forward,2018,2,42
+1630549,Day'Ron Sharpe,North Carolina,USA,6-9,265,Center,2021,1,29
+1630176,Vernon Carey Jr.,Duke,USA,6-10,270,Forward-Center,2020,2,32
+201959,Taj Gibson,Southern California,USA,6-9,232,Forward,2009,1,26
+1630214,Xavier Tillman,Michigan State,USA,6-7,245,Forward,2020,2,35
+203953,Jabari Parker,Duke,USA,6-7,245,Forward,2014,1,2
+1630208,Nick Richards,Kentucky,Jamaica,7-0,245,Center,2020,2,42
+203918,Rodney Hood,Duke,USA,6-8,208,Guard-Forward,2014,1,23
+1629048,Goga Bitadze,Mega Basket,Georgia,6-11,250,Center-Forward,2019,1,18
+101150,Lou Williams,South Gwinnett HS (GA),USA,6-2,175,Guard,2005,2,45
+1627761,DeAndre' Bembry,St. Joseph's (PA),USA,6-5,210,Guard-Forward,2016,1,21
+1630225,Isaiah Todd,NBA G League Ignite,USA,6-9,219,Forward,2021,2,31
+203914,Gary Harris,Michigan State,USA,6-4,210,Guard,2014,1,19
+1630538,Bones Hyland,Virginia Commonwealth,USA,6-2,169,Guard,2021,1,26
+1630192,Zeke Nnaji,Arizona,USA,6-9,240,Forward-Center,2020,1,22
+1630698,Kevin Pangos,Gonzaga,Canada,6-1,179,Guard,Undrafted,Undrafted,Undrafted
+1629626,Bol Bol,Oregon,Sudan,7-2,220,Center-Forward,2019,2,44
+1630206,Jay Scrubb,,USA,6-5,220,Guard,2020,2,55
+1630527,Brandon Boston,Kentucky,USA,6-6,188,Guard,2021,2,51
+1629185,Chris Chiozza,Florida,USA,5-11,175,Guard,Undrafted,Undrafted,Undrafted
+1626246,Boban Marjanovic,Crvena zvezda,Serbia,7-4,290,Center,Undrafted,Undrafted,Undrafted
+1629650,Moses Brown,UCLA,USA,7-2,245,Center,Undrafted,Undrafted,Undrafted
+1630543,Isaiah Jackson,Kentucky,USA,6-9,205,Forward,2021,1,22
+201568,Danilo Gallinari,Olimpia Milano,Italy,6-10,236,Forward,2008,1,6
+1626171,Bobby Portis,Arkansas,USA,6-11,250,Forward,2015,1,22
+1628400,Semi Ojeleye,Southern Methodist,USA,6-6,240,Forward,2017,2,37
+1630241,Sam Merrill,Utah State,USA,6-4,205,Guard,2020,2,60
+1630583,Santi Aldama,Loyola-Maryland,Spain,7-0,215,Forward-Center,2021,1,30
+1629681,Killian Tillie,Gonzaga,France,6-9,220,Forward-Center,Undrafted,Undrafted,Undrafted
+1629633,Jarrett Culver,Texas Tech,USA,6-6,195,Guard-Forward,2019,1,6
+1629003,Shake Milton,Southern Methodist,USA,6-5,205,Guard-Forward,2018,2,54
+1630190,Elijah Hughes,Syracuse,USA,6-5,215,Guard,2020,2,39
+1630647,Eugene Omoruyi,Oregon,Nigeria,6-6,235,Forward,Undrafted,Undrafted,Undrafted
+1630210,Markus Howard,Marquette,USA,5-10,175,Guard,Undrafted,Undrafted,Undrafted
+1627756,Denzel Valentine,Michigan State,USA,6-4,220,Guard,2016,1,14
+1630595,Cade Cunningham,Oklahoma State,USA,6-7,220,Guard,2021,1,1
+1629643,Chuma Okeke,Auburn,USA,6-8,229,Forward,2019,1,16
+1628539,Mychal Mulder,Kentucky,Canada,6-3,195,Guard,Undrafted,Undrafted,Undrafted
+1627747,Caris LeVert,Michigan,USA,6-6,205,Guard,2016,1,20
+1627884,Derrick Jones Jr.,UNLV,USA,6-6,210,Forward,Undrafted,Undrafted,Undrafted
+2617,Udonis Haslem,Florida,USA,6-7,235,Forward,Undrafted,Undrafted,Undrafted
+1630228,Jonathan Kuminga,NBA G League Ignite,DRC,6-7,225,Forward,2021,1,7
+1629685,Dylan Windler,Belmont,USA,6-7,196,Guard-Forward,2019,1,26
+1630691,Jamorko Pickett,Georgetown,USA,6-9,206,Forward,Undrafted,Undrafted,Undrafted
+1629103,Kelan Martin,Butler,USA,6-5,230,Forward,Undrafted,Undrafted,Undrafted
+1630613,Duane Washington Jr.,Ohio State,Germany,6-2,197,Guard,Undrafted,Undrafted,Undrafted
+203503,Tony Snell,New Mexico,USA,6-6,213,Guard,2013,1,20
+1630551,Justin Champagnie,Pittsburgh,USA,6-6,206,Guard-Forward,Undrafted,Undrafted,Undrafted
+203457,Nerlens Noel,Kentucky,USA,6-10,220,Center-Forward,2013,1,6
+1630547,James Bouknight,Connecticut,USA,6-4,190,Guard,2021,1,11
+1626195,Willy Hernangomez,Cajasol Sevilla,Spain,6-11,250,Center-Forward,2015,2,35
+201961,Wayne Ellington,North Carolina,USA,6-4,207,Guard,2009,1,28
+1630631,Jose Alvarado,Georgia Tech,USA,6-0,179,Guard,Undrafted,Undrafted,Undrafted
+1629712,Didi Louzada,                                   ,Brazil,6-5,188,Guard,2019,2,35
+1629002,Chimezie Metu,Southern California,USA,6-9,225,Forward-Center,2018,2,49
+1629635,Sekou Doumbouya,                                   ,France,6-9,230,Forward,2019,1,15
+1630643,Jay Huff,Virginia,USA,7-1,240,Forward,Undrafted,Undrafted,Undrafted
+1627783,Pascal Siakam,New Mexico State,Cameroon,6-8,230,Forward,2016,1,27
+201586,Serge Ibaka,Ricoh Manresa,Republic of the Congo,6-11,235,Forward,2008,1,24
+1630288,Jeff Dowtin,Rhode Island,USA,6-3,177,Guard,Undrafted,Undrafted,Undrafted
+1627745,Damian Jones,Vanderbilt,USA,6-11,245,Center,2016,1,30
+1628415,Dillon Brooks,Oregon,Canada,6-6,225,Guard-Forward,2017,2,45
+1630186,Jahmi'us Ramsey,Texas Tech,USA,6-3,190,Guard,2020,2,43
+1630580,Joe Wieskamp,Iowa,USA,6-6,205,Guard-Forward,2021,2,41
+1630582,Yves Pons,Tennessee,France,6-5,206,Forward,Undrafted,Undrafted,Undrafted
+1629076,Tyler Cook,Iowa,USA,6-8,255,Forward,Undrafted,Undrafted,Undrafted
+1630264,Anthony Gill,Virginia,USA,6-8,230,Forward,Undrafted,Undrafted,Undrafted
+1629659,Talen Horton-Tucker,Iowa State,USA,6-4,234,Guard,2019,2,46
+1630598,Aaron Wiggins,Maryland,USA,6-5,190,Guard,2021,2,55
+1630570,Trendon Watford,Louisiana State,USA,6-8,237,Forward,Undrafted,Undrafted,Undrafted
+1629726,Garrison Mathews,Lipscomb,USA,6-6,215,Guard,Undrafted,Undrafted,Undrafted
+1629632,Coby White,North Carolina,USA,6-5,195,Guard,2019,1,7
+1630556,Kessler Edwards,Pepperdine,USA,6-7,203,Forward,2021,2,44
+1629671,Miye Oni,Yale,USA,6-5,206,Guard-Forward,2019,2,58
+1628962,Udoka Azubuike,Kansas,Nigeria,6-11,270,Center-Forward,2020,1,27
+202334,Ed Davis,North Carolina,USA,6-9,218,Center-Forward,2010,1,13
+1627822,Petr Cornelie,France,France,6-11,220,Forward,2016,2,53
+200752,Rudy Gay,Connecticut,USA,6-8,250,Forward-Guard,2006,1,8
+1630573,Sam Hauser,Virginia,USA,6-7,217,Forward,Undrafted,Undrafted,Undrafted
+1630233,Nathan Knight,William & Mary,USA,6-8,253,Forward-Center,Undrafted,Undrafted,Undrafted
+1630688,Ish Wainright,Baylor,USA,6-5,250,Forward,Undrafted,Undrafted,Undrafted
+1629653,Devon Dotson,Kansas,USA,6-1,185,Guard,Undrafted,Undrafted,Undrafted
+1630250,Marko Simonovic,Mega Basket,Montenegro,7-0,220,Center,2020,2,44
+1629139,Yuta Watanabe,George Washington,Japan,6-8,215,Guard-Forward,Undrafted,Undrafted,Undrafted
+1630539,Kai Jones,Texas,Bahamas,6-11,221,Center-Forward,2021,1,19
+1628995,Kevin Knox II,Kentucky,USA,6-7,215,Forward,2018,1,9
+1628427,Vlatko Cancar,San Pablo Burgos,Slovenia,6-8,236,Forward,2017,2,49
+1629663,Louis King,Oregon,USA,6-7,205,Forward,Undrafted,Undrafted,Undrafted
+1628778,Paul Watson,Fresno State,USA,6-6,210,Guard,Undrafted,Undrafted,Undrafted
+1629719,Devontae Cacok,UNC-Wilmington,USA,6-7,240,Forward,Undrafted,Undrafted,Undrafted
+1630553,Keon Johnson,Tennessee,USA,6-3,185,Guard,2021,1,21
+202326,DeMarcus Cousins,Kentucky,USA,6-10,270,Center,2010,1,5
+1630605,JaQuori McLaughlin,Cal-Santa Barbara,USA,6-4,190,Guard,Undrafted,Undrafted,Undrafted
+1629833,Keljin Blevins,Montana State,USA,6-4,200,Guard,Undrafted,Undrafted,Undrafted
+1628432,Davon Reed,Miami,USA,6-5,206,Guard,2017,2,32
+1630606,Javonte Smart,Louisiana State,USA,6-4,205,Guard,Undrafted,Undrafted,Undrafted
+202083,Wesley Matthews,Marquette,USA,6-5,220,Guard,Undrafted,Undrafted,Undrafted
+1628981,Bruno Fernando,Maryland,Angola,6-10,240,Forward-Center,2019,2,34
+1630550,JT Thor,Auburn,USA,6-9,203,Forward,2021,2,37
+1630525,David Johnson,Louisville,USA,6-4,203,Guard,2021,2,47
+1630216,Cassius Winston,Michigan State,USA,6-1,185,Guard,2020,2,53
+1630561,David Duke Jr.,Providence,USA,6-4,204,Guard,Undrafted,Undrafted,Undrafted
+1630238,Malik Fitts,,USA,6-5,230,Forward,Undrafted,Undrafted,Undrafted
+1628035,Alfonzo McKinnie,Wisc.-Green Bay,USA,6-7,215,Forward,Undrafted,Undrafted,Undrafted
+1630199,Cassius Stanley,Duke,USA,6-5,190,Guard,2020,2,54
+1630587,Isaiah Livers,Michigan,USA,6-6,232,Forward,2021,2,42
+204038,Langston Galloway,St. Joseph's (PA),USA,6-1,200,Guard,Undrafted,Undrafted,Undrafted
+1629168,BJ Johnson,La Salle,USA,6-6,200,Forward,Undrafted,Undrafted,Undrafted
+1629755,Hassani Gravett,South Carolina,USA,6-2,187,Guard,Undrafted,Undrafted,Undrafted
+1630758,Aleem Ford,Wisconsin,USA,6-8,220,Forward,Undrafted,Undrafted,Undrafted
+1629678,Admiral Schofield,Tennessee,United Kingdom,6-5,241,Forward,2019,2,42
+1630168,Onyeka Okongwu,Southern California,USA,6-9,240,Forward-Center,2020,1,6
+1630271,Brodric Thomas,,USA,6-5,185,Guard,Undrafted,Undrafted,Undrafted
+1630602,Chaundee Brown Jr.,Michigan,USA,6-5,215,Forward,Undrafted,Undrafted,Undrafted
+202738,Isaiah Thomas,Washington,USA,5-9,185,Guard,2011,2,60
+1629674,Neemias Queta,Utah State,Portugal,7-0,248,Center,2021,2,39
+1630243,Trevelin Queen,New Mexico State,USA,6-6,190,Guard,Undrafted,Undrafted,Undrafted
+203516,James Ennis III,Cal State-Long Beach,USA,6-6,215,Forward,2013,2,50
+1627885,Shaquille Harrison,Tulsa,USA,6-4,195,Guard,Undrafted,Undrafted,Undrafted
+1627782,Wayne Selden,Kansas,USA,6-4,232,Guard,Undrafted,Undrafted,Undrafted
+2772,Trevor Ariza,UCLA,USA,6-8,215,Forward,2004,2,43
+1629164,Brandon Goodwin,Florida Gulf Coast,USA,6-0,180,Guard,Undrafted,Undrafted,Undrafted
+1629718,Charlie Brown Jr.,St. Joseph's (PA),USA,6-6,199,Guard,Undrafted,Undrafted,Undrafted
+1629109,Gary Clark,Cincinnati,USA,6-6,225,Forward,Undrafted,Undrafted,Undrafted
+1629619,Myles Powell,Seton Hall,USA,6-2,195,Guard,Undrafted,Undrafted,Undrafted
+1628418,Thomas Bryant,Indiana,USA,6-10,248,Center-Forward,2017,2,42
+1629060,Rui Hachimura,Gonzaga,Japan,6-8,230,Forward,2019,1,9
+1629033,Theo Pinson,North Carolina,USA,6-7,212,Guard-Forward,Undrafted,Undrafted,Undrafted
+1627737,Marquese Chriss,Washington,USA,6-9,240,Forward,2016,1,8
+1630222,Mason Jones,Arkansas,USA,6-4,200,Guard,Undrafted,Undrafted,Undrafted
+1629203,Jemerrio Jones,New Mexico State,USA,6-5,175,Forward,Undrafted,Undrafted,Undrafted
+202362,Lance Stephenson,Cincinnati,USA,6-5,210,Forward,2010,2,40
+204025,Tim Frazier,Penn State,USA,6-0,170,Guard,Undrafted,Undrafted,Undrafted
+1630273,Freddie Gillespie,Baylor,USA,6-9,245,Center,Undrafted,Undrafted,Undrafted
+1628382,Justin Jackson,North Carolina,USA,6-8,220,Forward,2017,1,15
+2207,Joe Johnson,Arkansas,USA,6-7,240,Guard-Forward,2001,1,10
+1626147,Justin Anderson,Virginia,USA,6-5,231,Forward-Guard,2015,1,21
+1626144,Emmanuel Mudiay,                                   ,Democratic Republic of the Congo,6-3,200,Guard,2015,1,7
+1630218,Robert Woodard II,Mississippi State,USA,6-6,235,Forward,2020,2,40
+1628411,Wes Iwundu,Kansas State,USA,6-6,195,Forward,2017,2,33
+204020,Tyler Johnson,Fresno State,USA,6-3,186,Guard,Undrafted,Undrafted,Undrafted
+1627767,Cheick Diallo,Kansas,Mali,6-8,219,Forward-Center,2016,2,33
+1628422,Damyean Dotson,Houston,USA,6-5,210,Guard,2017,2,44
+202688,Brandon Knight,Kentucky,USA,6-2,182,Guard,2011,1,8
+1630637,Carlik Jones,Louisville,USA,6-0,174,Guard,Undrafted,Undrafted,Undrafted
+1628994,George King,Colorado,USA,6-6,220,Forward-Guard,2018,2,59
+202681,Kyrie Irving,Duke,Australia,6-2,195,Guard,2011,1,1
+1629760,Matt Mooney,Texas Tech,USA,6-2,199,Guard,Undrafted,Undrafted,Undrafted
+1628978,Donte DiVincenzo,Villanova,USA,6-4,203,Guard,2018,1,17
+1629683,Quinndary Weatherspoon,Mississippi State,USA,6-3,205,Guard,2019,2,49
+1626169,Stanley Johnson,Arizona,USA,6-6,242,Forward-Guard,2015,1,8
+201954,Darren Collison,UCLA,USA,6-0,160,Guard,2009,1,21
+1628391,D.J. Wilson,Michigan,USA,6-10,231,Forward,2017,1,17
+1629682,Tremont Waters,Louisiana State,USA,5-10,175,Guard,2019,2,51
+1629752,Juwan Morgan,Indiana,USA,6-7,232,Forward,Undrafted,Undrafted,Undrafted
+1628436,Luke Kornet,Vanderbilt,USA,7-2,250,Center-Forward,Undrafted,Undrafted,Undrafted
+1630187,Daniel Oturu,Minnesota,USA,6-8,240,Center,2020,2,33
+1630286,Trevon Scott,Cincinnati,USA,6-8,225,Forward,Undrafted,Undrafted,Undrafted
+1630648,Jordan Schakel,San Diego State,USA,6-6,200,Guard,Undrafted,Undrafted,Undrafted
+1630555,Joel Ayayi,Gonzaga,France,6-4,180,Guard,Undrafted,Undrafted,Undrafted
+1630531,Jaden Springer,Tennessee,USA,6-4,202,Guard,2021,1,28
+1629783,Shaq Buchanan,Murray State,USA,6-3,190,Guard,Undrafted,Undrafted,Undrafted
+1630179,Tyrell Terry,Stanford,USA,6-2,160,Guard,2020,2,31
+1629607,Jared Harper,Auburn,USA,5-10,175,Guard,Undrafted,Undrafted,Undrafted
+1628476,Derrick Walton Jr.,Michigan,USA,6-0,185,Guard,Undrafted,Undrafted,Undrafted
+1629686,Deividas Sirvydis,                                   ,Lithuania,6-8,190,Forward-Guard,2019,2,37
+1630227,Daishen Nix,NBA G League Ignite,USA,6-4,226,Guard,Undrafted,Undrafted,Undrafted
+1627760,Cat Barber,North Carolina State,USA,6-1,173,Guard,Undrafted,Undrafted,Undrafted
+202328,Greg Monroe,Georgetown,USA,6-10,250,Forward-Center,2010,1,7
+1630787,Cameron McGriff,Oklahoma State,USA,6-7,220,Forward,Undrafted,Undrafted,Undrafted
+1630314,Brandon Williams,Arizona,USA,6-2,190,Guard,Undrafted,Undrafted,Undrafted
+1629600,Jarron Cumberland,Cincinnati,USA,6-5,205,Guard,Undrafted,Undrafted,Undrafted
+1629875,Xavier Moon,Morehead State,USA,6-2,165,Guard,Undrafted,Undrafted,Undrafted
+1630692,Jordan Goodwin,St. Louis,USA,6-3,200,Guard,Undrafted,Undrafted,Undrafted
+1628591,Craig Sword,Mississippi State,USA,6-3,196,Guard,Undrafted,Undrafted,Undrafted
+1630846,Olivier Sarr,Kentucky,France,6-11,240,Center,Undrafted,Undrafted,Undrafted
+1629309,Trayvon Palmer,Chicago St.,USA,6-6,200,Guard,Undrafted,Undrafted,Undrafted
+1626208,Keifer Sykes,Wisc.-Green Bay,USA,5-11,167,Guard,Undrafted,Undrafted,Undrafted
+1630792,Malcolm Hill,Illinois,USA,6-6,220,Forward,Undrafted,Undrafted,Undrafted
+1628419,Cameron Oliver,Nevada,USA,6-8,239,Forward,Undrafted,Undrafted,Undrafted
+1630644,Mac McClung,Texas Tech,USA,6-2,185,Guard,Undrafted,Undrafted,Undrafted
+1629657,Kyle Guy,Virginia,USA,6-1,167,Guard,2019,2,55
+1629735,Chris Silva,South Carolina,Gabon,6-8,234,Forward,Undrafted,Undrafted,Undrafted
+203816,Scotty Hopson,Tennessee,USA,6-7,204,Guard-Forward,2011,0,0
+1630306,Rob Edwards,Arizona State,USA,6-5,205,Guard,Undrafted,Undrafted,Undrafted
+1629658,Jaylen Hoard,Wake Forest,France,6-8,216,Forward,Undrafted,Undrafted,Undrafted
+1629150,Emanuel Terry,Lincoln Memorial,USA,6-9,220,Forward,Undrafted,Undrafted,Undrafted
+1629617,Reggie Perry,Mississippi State,USA,6-8,250,Forward-Center,2020,2,57
+1629005,Malik Newman,Kansas,USA,6-3,190,Guard,Undrafted,Undrafted,Undrafted
+1630640,MJ Walker,Florida State,USA,6-5,213,Guard,Undrafted,Undrafted,Undrafted
+1630207,Nate Hinton,Houston,USA,6-5,210,Guard-Forward,Undrafted,Undrafted,Undrafted
+1629312,Haywood Highsmith,Wheeling Jesuit,USA,6-5,220,Forward,Undrafted,Undrafted,Undrafted
+203917,Nik Stauskas,Michigan,Canada,6-6,207,Guard,2014,1,8
+1630270,Xavier Sneed,Kansas State,USA,6-5,215,Forward,Undrafted,Undrafted,Undrafted
+1630695,Micah Potter,Wisconsin,USA,6-8,248,Center,Undrafted,Undrafted,Undrafted
+1629873,Jaysean Paige,West Virginia,USA,6-2,200,Guard,Undrafted,Undrafted,Undrafted
+1629117,Wenyen Gabriel,Kentucky,South Sudan,6-9,205,Forward,Undrafted,Undrafted,Undrafted
+1629730,Rayjon Tucker,Arkansas-Little Rock,USA,6-3,209,Guard,Undrafted,Undrafted,Undrafted
+202687,Bismack Biyombo,Baloncesto Fuenlabrada,DRC,6-8,255,Center,2011,1,7
+1628238,Paris Bass,Detroit Mercy,USA,6-8,200,Forward,Undrafted,Undrafted,Undrafted
+1629610,DaQuan Jeffries,Tulsa,USA,6-5,222,Guard-Forward,Undrafted,Undrafted,Undrafted
+1630257,Jon Teske,Michigan,USA,7-1,265,Center,Undrafted,Undrafted,Undrafted
+1629751,Dakota Mathias,Purdue,USA,6-4,200,Guard,Undrafted,Undrafted,Undrafted
+1628537,Jaylen Morris,Molloy,USA,6-5,185,Guard,Undrafted,Undrafted,Undrafted
+1629958,Ahmad Caver,Old Dominion,USA,6-2,174,Guard,Undrafted,Undrafted,Undrafted
+1630296,Braxton Key,Virginia,USA,6-8,225,Forward,Undrafted,Undrafted,Undrafted
+1630237,Anthony Lamb,Vermont,USA,6-6,227,Forward,Undrafted,Undrafted,Undrafted
+203658,Norvel Pelle,Iona,USA,6-10,231,Center,Undrafted,Undrafted,Undrafted
+202691,Klay Thompson,Washington State,USA,6-6,220,Guard,2011,1,11
+1629597,Zylan Cheatham,Arizona State,USA,6-5,220,Forward,Undrafted,Undrafted,Undrafted
+1629623,Lindell Wigginton,Iowa State,Canada,6-1,189,Guard,Undrafted,Undrafted,Undrafted
+1629603,Mamadi Diakite,Virginia,Guinea,6-9,228,Forward,Undrafted,Undrafted,Undrafted
+1630678,Terry Taylor,Austin Peay,USA,6-4,230,Forward,Undrafted,Undrafted,Undrafted
+1628380,Zach Collins,Gonzaga,USA,6-11,250,Forward-Center,2017,1,10
+1630322,Lindy Waters III,Oklahoma State,USA,6-6,210,Forward,Undrafted,Undrafted,Undrafted
+1628365,Markelle Fultz,Washington,USA,6-4,209,Guard,2017,1,1
+1627853,Ryan Arcidiacono,Villanova,USA,6-3,195,Guard,Undrafted,Undrafted,Undrafted
+203506,Victor Oladipo,Indiana,USA,6-3,213,Guard,2013,1,2
+1627820,Tyrone Wallace,California,USA,6-5,198,Guard,2016,2,60
+1627739,Kris Dunn,Providence,USA,6-3,205,Guard,2016,1,5
+1630589,Moses Wright,Georgia Tech,USA,6-8,226,Forward,Undrafted,Undrafted,Undrafted
+1629962,Devin Cannady,Princeton,USA,6-2,183,Guard,Undrafted,Undrafted,Undrafted
+1629035,Carsen Edwards,Purdue,USA,5-11,200,Guard,2019,2,33
+1630994,Gabriel Lundberg,CSKA Moscow,Denmark,6-4,203,Guard,Undrafted,Undrafted,Undrafted
+1630285,Zavier Simpson,Michigan,USA,6-0,190,Guard,Undrafted,Undrafted,Undrafted
+1628982,Melvin Frazier Jr.,Tulane,USA,6-5,215,Guard-Forward,2018,2,35
+1628221,Gabe York,Arizona,USA,6-3,190,Guard,Undrafted,Undrafted,Undrafted
+1629083,Arnoldas Kulboka,Bilbao,Lithuania,6-10,209,Forward,2018,2,55
+1630346,Matt Ryan,Tennessee-Chattanooga,USA,6-6,215,Forward,Undrafted,Undrafted,Undrafted
+1630624,Feron Hunt,Southern Methodist,USA,6-8,195,Forward,Undrafted,Undrafted,Undrafted

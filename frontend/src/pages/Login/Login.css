@@ -1,0 +1,23 @@
+.login {
+    background: #000;
+    min-height: 100vh;
+    padding-top: 5%;
+    text-align: center;
+    color: #f1f1f1;
+    padding-bottom: 5%;
+}
+
+.search-box {
+    background-color: #f1f1f1;
+    width: fit-content;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.result {
+    color: white;
+}
+
+.result p {
+    margin: 2%;
+}

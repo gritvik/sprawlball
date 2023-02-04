@@ -1,0 +1,52 @@
+[
+    {
+        "LocationX": -164,
+        "LocationY": 210,
+        "ShotMade": 0
+    },
+    {
+        "LocationX": 0,
+        "LocationY": 263,
+        "ShotMade": 0
+    },
+    {
+        "LocationX" : 5,
+        "LocationY" : 147,
+        "ShotMade" : 0
+    },
+    {
+        "LocationX" : 1,
+        "LocationY" : 4,
+        "ShotMade" : 1
+    },
+    {
+        "LocationX" : 15,
+        "LocationY" : 104,
+        "ShotMade" : 0
+    },
+    {
+        "LocationX" : 6,
+        "LocationY" : 8,
+        "ShotMade" : 1
+    },
+    {
+        "LocationX" : -164,
+        "LocationY" : 210,
+        "ShotMade" : 0
+    },
+    {
+        "LocationX" : -213,
+        "LocationY" : 172,
+        "ShotMade" : 0
+    },
+    {
+        "LocationX" : 23,
+        "LocationY" : 282,
+        "ShotMade" : 1
+    },
+    {
+        "LocationX" : -21,
+        "LocationY" : 125,
+        "ShotMade" : 0
+    }
+]

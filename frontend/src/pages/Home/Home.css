@@ -1,0 +1,33 @@
+.home-main {
+    background: #000000;
+    min-height: 100vh;
+    padding-top: 5%;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.info h1 {
+    font-weight: 500;
+    margin-bottom: 3%;
+}
+
+.info p {
+    max-width: 1100px;
+}
+
+.info {
+    margin: auto;
+    min-height: 70vh;
+    align-self: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.apple {
+    font-family: ui-monospace, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
